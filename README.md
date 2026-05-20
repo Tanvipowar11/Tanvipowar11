@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | AI, Data Science & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="<img width="1024 height="1024" alt="image" src="https://github.com/user-attachments/assets/d62a6022-eeed-43eb-9174-157a24ef0947" />" width="200" style="border-radius:50%;" alt="Tanvi Powar"/>
+  <img src="<img width='1024' height='1024' alt='image' src='https://github.com/user-attachments/assets/f4cb1688-5025-427a-8c75-79d384eed0dd' />" width="200" style="border-radius:50%;" alt="Tanvi Powar"/>
 </p>
 
 <p align="center">
