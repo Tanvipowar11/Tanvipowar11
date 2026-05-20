@@ -2,10 +2,6 @@
 <h3 align="center">Computer Engineering Student | AI, Data Science & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4cb1688-5025-427a-8c75-79d384eed0dd" width="200" alt="Tanvi Powar"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Learner;Data+Analytics+Enthusiast;Web+Developer;Machine+Learning+Enthusiast&center=true&width=600&height=45">
 </p>
 
